@@ -13,6 +13,7 @@ body {
   background-color: lightblue;
 }
 
+/*header.css*/
 .header {
   height: 80px;
   width: 400px;
@@ -28,6 +29,7 @@ body {
   text-align: center;
 }
 
+/**/
 main {
   display: flex;
   flex-direction: column;
@@ -63,11 +65,12 @@ main {
   align-items: center;
 }
 
+/*footer.css*/
 .navigation {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding-top: 15px;
+  padding-top: 10px;
   height: 80px;
   width: 400px;
   background-color: blue;
